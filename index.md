@@ -87,3 +87,10 @@ internal fun Dock(w: Int, h: Int, content: @Composable BoxScope.() -> Unit) {
     controller.runEffect()
 }
 ```
+
+Task List
+
+- [x] start CS 3354
+- [ ] finish CS 3354
+- [ ] finish Senior design
+- [ ] graduate college
